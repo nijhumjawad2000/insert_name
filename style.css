@@ -1,0 +1,25 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid black;
+    height: 80vh;
+    background-color: black;
+}
+.clickIt {
+    border: 1px solid black;
+    margin: auto;
+    border-radius: 19px;
+    height: 8vh;
+    width: 24vw;
+    background-color: cornflowerblue;
+    outline: none;
+    font-size: 20px;
+}
+.name {
+    border: 1px solid black;
+    height: 100%;
+    text-align: center;
+    background-color: burlywood;
+    font-size: 67px;
+}
